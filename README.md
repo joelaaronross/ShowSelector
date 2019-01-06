@@ -1,2 +1,2 @@
 # ShowSelector
-Git branch practice with Sheilla.
+Git branch practice with Sheila.
